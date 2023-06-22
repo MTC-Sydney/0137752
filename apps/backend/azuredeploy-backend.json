@@ -54,7 +54,7 @@
         },
         "SQL_SERVER_DATABASE": {
             "type": "string",
-            "defaultValue": "***REMOVED***"
+            "defaultValue": "SampleDB"
         },
         "SQL_SERVER_USERNAME": {
             "type": "string"

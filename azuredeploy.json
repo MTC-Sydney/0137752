@@ -87,7 +87,7 @@
             }
         },
         "SQLDB Name": {
-            "defaultValue": "***REMOVED***",
+            "defaultValue": "SampleDB",
             "type": "String",
             "metadata": {
                 "description": "The name of the SQL Database."
