@@ -10,3 +10,5 @@ common/__pycache__/
 *.amltemp
 data/
 credentials2.env
+test questions.txt
+scratchpad
